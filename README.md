@@ -1,2 +1,2 @@
 # SI-Estacionamento
-Sistema de controle de estacionamento
+# Projeto de informatização da gestão de entrada, saida e permanência de veiculos em estacionamento
